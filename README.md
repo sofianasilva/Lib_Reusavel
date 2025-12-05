@@ -1,1 +1,9 @@
-# Lib_Reusavel
+## Execução
+
+```bash
+pip install -r requirements.txt
+
+python -m app.main
+```
+
+#
