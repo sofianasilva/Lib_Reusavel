@@ -15,4 +15,6 @@ pip install -r requirements.txt
 
 # Executar API
 python -m app.main
+
+http://0.0.0.0:8000/docs 
 ```
